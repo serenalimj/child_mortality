@@ -1,12 +1,5 @@
 # Child Mortality Rate Analysis
-
-## Group Members
-- Serena Li
-- Hussein Hirsi
-
-## Colab Worksheet
-- Colab Worksheet (Serena): [child_mortality_analysis](https://colab.research.google.com/drive/1mtLnA9waputmxI0OJQQwwtv-4PoL7d9c?usp=sharing)
-
+Serena Li, Hussein Hirsi
 
 ## Introduction
 Child mortality rate is defined as the probability of a child dying before reaching age five. It remains a key indicator of a country’s public health conditions and broader socio-economic development. In this project, we analyze historical trends in child mortality and explore whether economic development, measured by GDP per capita, is associated with lower child mortality across countries.  Moreover, we analyze the causes of child mortality and the relationship between child mortality and poverty in different countries. 
